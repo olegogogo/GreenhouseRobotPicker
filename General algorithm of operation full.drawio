@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2022-03-25T08:41:36.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.810 Yowser/2.5 Safari/537.36" etag="vVMXa2qriIWLDJ1p6uoc" version="17.1.5" type="github">
+  <diagram id="fKbLDI4m6s5YDFdav7tx" name="Page-1">
+    <mxGraphModel dx="1231" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tT43miHSmSe1ald3xXMh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tT43miHSmSe1ald3xXMh-1" target="z2Bv-fhcHFHHyMWfdvLi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-1" value="Камера" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tT43miHSmSe1ald3xXMh-2" target="z2Bv-fhcHFHHyMWfdvLi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-2" value="Лазерный дальномер" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tT43miHSmSe1ald3xXMh-7" target="tT43miHSmSe1ald3xXMh-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-7" value="Драйверы двигателей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tT43miHSmSe1ald3xXMh-9" target="tT43miHSmSe1ald3xXMh-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-9" value="Двигатели постоянного тока" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="60" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tT43miHSmSe1ald3xXMh-12" target="z2Bv-fhcHFHHyMWfdvLi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-12" value="Датчики энкодеры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-15" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="200" width="320" height="190" as="geometry">
+            <mxRectangle x="80" y="200" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-16" value="Привод манипулятора" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tT43miHSmSe1ald3xXMh-15" vertex="1">
+          <mxGeometry x="160" y="160" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tT43miHSmSe1ald3xXMh-18" target="tT43miHSmSe1ald3xXMh-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-18" value="Драйверы двигателей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-19" value="Двигатели постоянного тока" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-22" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="410" width="310" height="190" as="geometry">
+            <mxRectangle x="80" y="200" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tT43miHSmSe1ald3xXMh-23" value="Привод продольного перемещения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tT43miHSmSe1ald3xXMh-22" vertex="1">
+          <mxGeometry x="90" y="165" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UeW9OajVFmdV6uBSS3_x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="UeW9OajVFmdV6uBSS3_x-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="UeW9OajVFmdV6uBSS3_x-3" target="z2Bv-fhcHFHHyMWfdvLi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="540" />
+              <mxPoint x="400" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UeW9OajVFmdV6uBSS3_x-3" value="Датчики энкодеры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-1" value="Raspberry Pi&amp;nbsp;&lt;br&gt;Основной контроллер" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=59;endSize=9.33;endWidth=15;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="z2Bv-fhcHFHHyMWfdvLi-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.5" y="325" as="sourcePoint" />
+            <mxPoint x="589.5" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-3" value="Шина&lt;br&gt;данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;" vertex="1" connectable="0" parent="z2Bv-fhcHFHHyMWfdvLi-2">
+          <mxGeometry x="-0.4286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z2Bv-fhcHFHHyMWfdvLi-4" target="tT43miHSmSe1ald3xXMh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z2Bv-fhcHFHHyMWfdvLi-4" target="tT43miHSmSe1ald3xXMh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-4" value="Arduino Nano&lt;br&gt;Дополнительный&amp;nbsp; контроллер" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z2Bv-fhcHFHHyMWfdvLi-10" target="z2Bv-fhcHFHHyMWfdvLi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2Bv-fhcHFHHyMWfdvLi-10" value="Концевые датчики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
