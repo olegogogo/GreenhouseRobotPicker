@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T18:42:07.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="0A3jdYyNScgjzEJRIC0c" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T19:17:05.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="iIn-VJae7pcviVCtqxi4" version="17.4.0" type="github">
   <diagram id="fKbLDI4m6s5YDFdav7tx" name="Page-1">
-    <mxGraphModel dx="5114" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3541" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-2" target="h8HMm1EKxBpr1wNR40ml-3">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-2" target="h8HMm1EKxBpr1wNR40ml-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-2" value="Запуск основного исполняемого файла" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-2" value="Запуск основного исполняемого файла" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-3" target="h8HMm1EKxBpr1wNR40ml-4">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-3" target="h8HMm1EKxBpr1wNR40ml-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-3" value="Подгрузка структуры и весов нейронной сети" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-3" value="Подгрузка структуры и весов нейронной сети" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-4" target="h8HMm1EKxBpr1wNR40ml-25">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-4" target="h8HMm1EKxBpr1wNR40ml-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-4" value="Подгрузка драйвера видеокамеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-4" value="Подгрузка драйвера видеокамеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-5" target="h8HMm1EKxBpr1wNR40ml-6">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-5" target="h8HMm1EKxBpr1wNR40ml-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-5" value="Включение питания робота" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-5" value="Включение питания робота" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-6" target="h8HMm1EKxBpr1wNR40ml-2">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-6" target="h8HMm1EKxBpr1wNR40ml-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-6" value="Подача питания на контроллеры. Запуск Raspberry Pi и Arduino Nano" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-6" value="Подача питания на контроллеры. Запуск Raspberry Pi и Arduino Nano" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-8" value="Проверка положения приводов" style="swimlane;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-8" value="Проверка положения приводов" style="swimlane;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="-410" y="130" width="590" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-11" target="h8HMm1EKxBpr1wNR40ml-12">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-11" target="h8HMm1EKxBpr1wNR40ml-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-11" value="Движение вертикального ШВП привода в крайнее верхнее положение" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-11" value="Движение вертикального ШВП привода в крайнее верхнее положение" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="390" y="200" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-12" target="h8HMm1EKxBpr1wNR40ml-11">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-12" target="h8HMm1EKxBpr1wNR40ml-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="140" />
@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-12" target="h8HMm1EKxBpr1wNR40ml-20">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-12" target="h8HMm1EKxBpr1wNR40ml-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="70" />
@@ -59,16 +59,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-12" value="Активирован верхний концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-12" value="Активирован верхний концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-14" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-14" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="520" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-18" value="Движение горизонтального ШВП привода в крайнее дальнее положение" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-18" value="Движение горизонтального ШВП привода в крайнее дальнее положение" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="180" y="200" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-20" target="h8HMm1EKxBpr1wNR40ml-18">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-20" target="h8HMm1EKxBpr1wNR40ml-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="140" />
@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-20" target="h8HMm1EKxBpr1wNR40ml-24">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-20" target="h8HMm1EKxBpr1wNR40ml-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="70" />
@@ -84,181 +84,181 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-20" value="Активирован дальний концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-20" value="Активирован дальний концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="180" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-18" target="h8HMm1EKxBpr1wNR40ml-20">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-8" source="h8HMm1EKxBpr1wNR40ml-18" target="h8HMm1EKxBpr1wNR40ml-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-21" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-21" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="310" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-23" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-23" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="410" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-24" value="Закончить процесс проверки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-24" value="Закончить процесс проверки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-52" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-52" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-8">
           <mxGeometry x="140" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-25" target="h8HMm1EKxBpr1wNR40ml-34">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-25" target="h8HMm1EKxBpr1wNR40ml-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-25" target="h8HMm1EKxBpr1wNR40ml-11">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-25" target="h8HMm1EKxBpr1wNR40ml-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Процесс проверки положения приводов&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-25" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Процесс проверки положения приводов&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-24" target="h8HMm1EKxBpr1wNR40ml-25">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-24" target="h8HMm1EKxBpr1wNR40ml-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-34" target="h8HMm1EKxBpr1wNR40ml-37">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-34" target="h8HMm1EKxBpr1wNR40ml-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-34" target="h8HMm1EKxBpr1wNR40ml-107">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-34" target="h8HMm1EKxBpr1wNR40ml-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-34" value="Процесс определения плодов на видеопотоке" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-34" value="Процесс определения плодов на видеопотоке" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="500" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-36" value="Система технического зрения" style="swimlane;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-36" value="Система технического зрения" style="swimlane;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="480" y="180" width="330" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-37" target="h8HMm1EKxBpr1wNR40ml-38">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-37" target="h8HMm1EKxBpr1wNR40ml-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-37" value="Получение RGB изображения с камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-37" value="Получение RGB изображения с камеры" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-38" target="h8HMm1EKxBpr1wNR40ml-39">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-38" target="h8HMm1EKxBpr1wNR40ml-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-38" value="Функция превращения объекта изображения в трёхмерный массив" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-38" value="Функция превращения объекта изображения в трёхмерный массив" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
           <mxGeometry x="20" y="150" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-39" target="h8HMm1EKxBpr1wNR40ml-40">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-39" target="h8HMm1EKxBpr1wNR40ml-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-39" value="Функция model.predict - выполнение обработки изображения" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-39" value="Функция model.predict - выполнение обработки изображения" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
           <mxGeometry x="20" y="40" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-40" target="h8HMm1EKxBpr1wNR40ml-41">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-36" source="h8HMm1EKxBpr1wNR40ml-40" target="h8HMm1EKxBpr1wNR40ml-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-40" value="Функция NonMaxSupression - получение близкой к реальной рамки вокруг плода на изображении" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-40" value="Функция NonMaxSupression - получение близкой к реальной рамки вокруг плода на изображении" style="rounded=1;fontSize=13;html=1;whiteSpace=wrap;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
           <mxGeometry x="190" y="40" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-41" value="Функция получения координат центра объекта на изображении" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-41" value="Функция получения координат центра объекта на изображении" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-36">
           <mxGeometry x="190" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-41" target="h8HMm1EKxBpr1wNR40ml-34">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-41" target="h8HMm1EKxBpr1wNR40ml-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-49" target="h8HMm1EKxBpr1wNR40ml-99">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-49" target="h8HMm1EKxBpr1wNR40ml-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-49" target="h8HMm1EKxBpr1wNR40ml-25">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-49" target="h8HMm1EKxBpr1wNR40ml-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-49" value="Процесс среза плода" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-49" value="Процесс среза плода" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="700" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-53" value="Процесс среза плода" style="swimlane;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-53" value="Процесс среза плода" style="swimlane;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="-340" y="700" width="550" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-70">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-73">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-82">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-54" target="h8HMm1EKxBpr1wNR40ml-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-54" value="Координаты объекта выше, ниже или в центре?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-54" value="Координаты объекта выше, ниже или в центре?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="190" y="50" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-70" target="h8HMm1EKxBpr1wNR40ml-54">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-70" target="h8HMm1EKxBpr1wNR40ml-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-70" value="Выполнение движения привода вверх" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-70" value="Выполнение движения привода вверх" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-72" value="Вверх" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
-          <mxGeometry x="130" y="50" width="50" height="20" as="geometry" />
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-72" value="Вверх" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+          <mxGeometry x="135" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-73" target="h8HMm1EKxBpr1wNR40ml-54">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-73" target="h8HMm1EKxBpr1wNR40ml-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-73" value="Выполнение движения привода вниз" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-73" value="Выполнение движения привода вниз" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-75" value="Вниз" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-75" value="Вниз" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="340" y="50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-82" target="h8HMm1EKxBpr1wNR40ml-85">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-82" target="h8HMm1EKxBpr1wNR40ml-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-82" value="Координаты объекта в центре" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-82" value="Координаты объекта в центре" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-84" value="В центре" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
-          <mxGeometry x="270" y="190" width="70" height="20" as="geometry" />
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-84" value="В центре" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+          <mxGeometry x="275" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-85" target="h8HMm1EKxBpr1wNR40ml-87">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-85" target="h8HMm1EKxBpr1wNR40ml-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-85" value="Получение данных с датчика расстояния" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-85" value="Получение данных с датчика расстояния" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-87" target="h8HMm1EKxBpr1wNR40ml-99">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-53" source="h8HMm1EKxBpr1wNR40ml-87" target="h8HMm1EKxBpr1wNR40ml-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-87" value="Выдвижение привода горизонтального перемещения&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-87" value="Выдвижение привода горизонтального перемещения&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="190" y="409" width="140" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-99" value="Выполнение среза плода" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-99" value="Выполнение среза плода" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-53">
           <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-58" value="Выполнение движения приводом" style="swimlane;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-58" value="Выполнение движения приводом" style="swimlane;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="-900" y="510" width="540" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-59" target="h8HMm1EKxBpr1wNR40ml-60">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-59" target="h8HMm1EKxBpr1wNR40ml-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-59" value="Raspberry Pi отправляет данные о направлении движения конкретного привода на Arduino Nano" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-59" value="Raspberry Pi отправляет данные о направлении движения конкретного привода на Arduino Nano" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="390" y="45" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-60" target="h8HMm1EKxBpr1wNR40ml-62">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-60" target="h8HMm1EKxBpr1wNR40ml-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-60" value="Arduino Nano отправляет данные о начале движения на драйвер L298N" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-60" value="Arduino Nano отправляет данные о начале движения на драйвер L298N" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="240" y="57.5" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-62" target="h8HMm1EKxBpr1wNR40ml-91">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-62" target="h8HMm1EKxBpr1wNR40ml-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-62" value="Драйвер двигателя L298N управляет двигателем постоянного тока JGA 25" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-62" value="Драйвер двигателя L298N управляет двигателем постоянного тока JGA 25" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="90" y="55" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-91" target="h8HMm1EKxBpr1wNR40ml-94">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="h8HMm1EKxBpr1wNR40ml-58" source="h8HMm1EKxBpr1wNR40ml-91" target="h8HMm1EKxBpr1wNR40ml-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-91" value="Сработал концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-91" value="Сработал концевой датчик?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-92" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
-          <mxGeometry x="40" y="160" width="40" height="20" as="geometry" />
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-92" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+          <mxGeometry x="45" y="160" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-94" value="Остановка двигателя, вывод сообщения о недостижимости цели схвата" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-94" value="Остановка двигателя, вывод сообщения о недостижимости цели схвата" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="270" y="145" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-97" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-97" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="h8HMm1EKxBpr1wNR40ml-58">
           <mxGeometry x="220" y="160" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-91" target="h8HMm1EKxBpr1wNR40ml-11">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-91" target="h8HMm1EKxBpr1wNR40ml-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-880" y="700" />
@@ -267,38 +267,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=12;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-18">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="540" as="sourcePoint" />
             <mxPoint x="-160" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-11" target="h8HMm1EKxBpr1wNR40ml-59">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-11" target="h8HMm1EKxBpr1wNR40ml-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-69" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-18">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-69" value="" style="endArrow=oval;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="500" as="sourcePoint" />
             <mxPoint x="-140" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-70">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-73">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40.00000000000023" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=12;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-70">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-240" y="540" as="sourcePoint" />
             <mxPoint x="-150" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=12;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-73">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="540" as="sourcePoint" />
             <mxPoint x="140" y="620" as="targetPoint" />
@@ -307,7 +307,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=12;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-87">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=oval;startFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" target="h8HMm1EKxBpr1wNR40ml-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="540" as="sourcePoint" />
             <mxPoint x="150" y="1140" as="targetPoint" />
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-90" value="" style="endArrow=oval;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endFill=1;startArrow=none;startFill=0;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-87">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-90" value="" style="endArrow=oval;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endFill=1;startArrow=none;startFill=0;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="670" as="sourcePoint" />
             <mxPoint x="40" y="630" as="targetPoint" />
@@ -327,49 +327,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-99" target="h8HMm1EKxBpr1wNR40ml-49">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-99" target="h8HMm1EKxBpr1wNR40ml-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-107" target="h8HMm1EKxBpr1wNR40ml-49">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-107" target="h8HMm1EKxBpr1wNR40ml-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-107" target="h8HMm1EKxBpr1wNR40ml-111">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-107" target="h8HMm1EKxBpr1wNR40ml-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-107" value="Есть результат?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-107" value="Есть результат?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="220" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-110" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-110" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="290" y="670" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-111" target="h8HMm1EKxBpr1wNR40ml-114">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-111" target="h8HMm1EKxBpr1wNR40ml-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-111" value="Одна дополнительная проверка" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-111" value="Одна дополнительная проверка" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="414" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-113" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="40" height="20" as="geometry" />
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-113" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
+          <mxGeometry x="365" y="600" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-114" target="h8HMm1EKxBpr1wNR40ml-49">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-114" target="h8HMm1EKxBpr1wNR40ml-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-114" target="h8HMm1EKxBpr1wNR40ml-119">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-114" target="h8HMm1EKxBpr1wNR40ml-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-114" value="Есть результат?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-114" value="Есть результат?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="414" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-117" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-117" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="370" y="690" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-119" target="h8HMm1EKxBpr1wNR40ml-121">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-119" target="h8HMm1EKxBpr1wNR40ml-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-119" value="Выполнение перемещения приводом главного движения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-119" value="Выполнение перемещения приводом главного движения&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="414" y="780" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-121" target="h8HMm1EKxBpr1wNR40ml-25">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" edge="1" parent="1" source="h8HMm1EKxBpr1wNR40ml-121" target="h8HMm1EKxBpr1wNR40ml-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="970" />
@@ -380,7 +380,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8HMm1EKxBpr1wNR40ml-121" value="Выполнение движения приводом" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="h8HMm1EKxBpr1wNR40ml-121" value="Выполнение движения приводом" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=13;fontStyle=2;fontFamily=GOST Type A;fontSource=https%3A%2F%2Ffonts-online.ru%2Ffonts%2Fgost-type-a;" vertex="1" parent="1">
           <mxGeometry x="414" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
