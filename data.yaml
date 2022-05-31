@@ -1,0 +1,8 @@
+names:
+- flower
+- fruit
+- peduncle
+- unripe
+nc: 4
+train: Cucumbers-Greenhouse-Object-Detection-4/train/images
+val: Cucumbers-Greenhouse-Object-Detection-4/valid/images
